@@ -1,0 +1,13 @@
+# Node modules (μην τα ανεβάζεις στο GitHub)
+node_modules/
+
+# Περιβαλλοντικές μεταβλητές (αν προσθέσεις κάποτε .env)
+.env
+
+# Logs (αν δημιουργηθούν)
+*.log
+npm-debug.log*
+
+# OS/system files
+.DS_Store
+Thumbs.db
